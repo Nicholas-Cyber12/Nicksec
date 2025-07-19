@@ -1,4 +1,3 @@
-# Beginner Cybersecurity Mini Project
 # Project: Simple Password Strength Checker
 
 # Description:
